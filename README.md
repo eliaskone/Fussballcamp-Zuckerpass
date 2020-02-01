@@ -1,1 +1,1 @@
-# Fu-ballcamp-Zuckerpass
+# Fussballcamp-Zuckerpass
