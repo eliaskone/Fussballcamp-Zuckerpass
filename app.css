@@ -86,3 +86,20 @@ section#contact {
     padding: 20px;
     text-align: center;
   }
+  .white_box {
+    width:700px;
+    height:150%;
+    background:#fff;
+    float:left;
+    border:2px solid #fff;
+    margin-bottom: 100%;
+    }
+
+    
+.dark_box {
+    width:700px;
+    height:150%;
+    background:rgba(34,34,34,1);
+    float:left;
+    border:2px solid rgba(34,34,34,1);
+}
