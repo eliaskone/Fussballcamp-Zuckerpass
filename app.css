@@ -66,6 +66,12 @@ section#camp {
     text-align: top;
     color: black;
 }
+section#contact {
+    background: url(line.jpeg) no-repeat center center/cover;
+    align-items: center;
+    justify-content: center;
+    
+}
 
 
 .bg-text {
