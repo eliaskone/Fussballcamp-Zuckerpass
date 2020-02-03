@@ -22,7 +22,7 @@
   }
   
   .lead {
-    font-size: 1.5rem;
+   font-size: 1.5rem;
   }
   
   .navbar {
@@ -71,7 +71,7 @@
   }
   
   section h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   
   /* Section Images */
@@ -86,6 +86,7 @@ section#camp {
     color: #fff;
     margin-bottom: 100px;
     margin-top: 50px;
+    font-size: 3vh;
 }
 
 section#about {
@@ -99,8 +100,11 @@ section#about {
   }
 
   section#about h1 {
+    font-size: 2em;
+}
+
+#teamheader {
     flex-direction: column;
-    font-size: 150%;
     padding: 10px;
     border-style: solid;
     border-color: white;
@@ -115,7 +119,7 @@ section#contact {
     margin-top: 50px;
 }
   .white_box {
-    margin-top: 100px;
+      margin-top: 100px;
     background:#fff;
     
     }
@@ -165,4 +169,11 @@ section#about #aboutdiv {
 section#contact {
     font-size: 3vh;
 }
+}
+section#about #aboutdiv {
+    flex-direction: column;
+}
+section#about #trainerdiv {
+    display: flex;
+    
 }
