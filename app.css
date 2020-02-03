@@ -102,12 +102,13 @@ section#home h3 {
   
   /* Section Images */
 section#home {
-    background: url('https://cdn.pixabay.com/photo/2017/08/10/01/38/grass-2616911_960_720.jpg') no-repeat center center/cover;;
+    background: url(soccer.jpg) no-repeat center center/cover;
     margin-bottom: 100px;
     margin-top: 50px;
 }
 
 section#camp {
+    background: url(soccer.jpg) no-repeat center center/cover;
     text-align: top;
     color: #fff;
     margin-bottom: 100px;
@@ -140,7 +141,7 @@ section#about {
 }
 
 section#contact {
-    background: url(line.jpeg) no-repeat center center/cover;
+    background: url(soccer.jpg) no-repeat center center/cover;
     margin-bottom: 100px;
     margin-top: 50px;
 }
