@@ -151,6 +151,13 @@ section#contact {
     margin-bottom: 100px;
     margin-top: 50px;
 }
+
+section#agb {
+  background: url(soccer.jpg) no-repeat center center/cover;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
 .white_box {
       color: white;
       margin-top: 100px;
@@ -214,4 +221,21 @@ section#about #aboutdiv {
 section#about #trainerdiv {
     display: flex;
     
+}
+.agbsection {
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+#agbs h3 {
+   display: block;
+    font-size: 1.17em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#agbbtn {
+  
 }
