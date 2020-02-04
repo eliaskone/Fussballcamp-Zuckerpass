@@ -146,20 +146,20 @@ section#contact {
     margin-bottom: 100px;
     margin-top: 50px;
 }
-  .white_box {
+.white_box {
       color: black;
       margin-top: 100px;
-      text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.7),
-      0px 8px 13px rgba(0, 0, 0, 0.5),
-      0px 18px 23px rgba(0, 0, 0, 0.5);
+      text-shadow: 0px 4px 3px white,
+        0px 8px 13px white,
+        0px 18px 23px white;
     
     }
 
-    .dark_box {
+.dark_box {
         color: black;
-        text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.7),
-        0px 8px 13px rgba(0, 0, 0, 0.5),
-        0px 18px 23px rgba(0, 0, 0, 0.5);
+        text-shadow: 0px 4px 3px white,
+        0px 8px 13px white,
+        0px 18px 23px white;
 }
 
 h2 {
