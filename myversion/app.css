@@ -142,6 +142,12 @@ section#contact {
     margin-bottom: 100px;
     margin-top: 50px;
 }
+section#agb {
+  background: url(line.jpeg) no-repeat center center/cover;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
   .white_box {
       margin-top: 100px;
     background:#fff;
